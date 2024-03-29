@@ -1,1 +1,3 @@
 git commit -am "new added file" 
+
+# also, you can use the commit to modify the message 
