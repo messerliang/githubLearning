@@ -1,0 +1,2 @@
+git checkout -b branch_name # 切换到另个分支，如果不存在，还会建立该分支
+Fri Mar 29 19:52:29     2024
