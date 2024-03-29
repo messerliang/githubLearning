@@ -1,0 +1,1 @@
+git pusch origin branch_name #push the content to remote server
